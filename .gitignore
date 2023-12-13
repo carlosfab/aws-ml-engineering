@@ -167,3 +167,4 @@ cython_debug/
 # Project
 .venv
 poetry.lock
+__MACOSX/
