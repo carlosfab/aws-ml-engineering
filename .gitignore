@@ -168,3 +168,4 @@ cython_debug/
 .venv
 poetry.lock
 __MACOSX/
+.vscode/
